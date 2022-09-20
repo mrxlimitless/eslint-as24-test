@@ -1,0 +1,19 @@
+{
+  "name": "eslint-as24-test",
+  "version": "1.0.0",
+  "description": "test-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Congrats you have been hacked\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrxlimitless/eslint-as24-test.git"
+  },
+  "author": "mrxlimitless",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrxlimitless/eslint-as24-test/issues"
+  },
+  "homepage": "https://github.com/mrxlimitless/eslint-as24-test#readme"
+}
