@@ -4,7 +4,7 @@
   "description": "test-package",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Congrats you have been hacked\" && exit 1"
+    "postinstall": "echo \"Congrats you have been hacked\" && exit 1"
   },
   "repository": {
     "type": "git",
