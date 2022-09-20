@@ -1,10 +1,10 @@
 {
   "name": "eslint-as24-test",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "test-package",
   "main": "index.js",
   "scripts": {
-    "postinstall": "echo \"Congrats you have been hacked\" && exit 1"
+    "postinstall": "echo \"Congrats you have been hacked\" && exit 0"
   },
   "repository": {
     "type": "git",
